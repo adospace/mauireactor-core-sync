@@ -60,8 +60,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CoreSync.Http.Client" Version="0.1.111" />
-		<PackageReference Include="CoreSync.Sqlite" Version="0.1.111" />
+		<PackageReference Include="CoreSync.Http.Client" Version="0.1.112" />
+		<PackageReference Include="CoreSync.Sqlite" Version="0.1.112" />
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
 		<PackageReference Include="Reactor.Maui" Version="3.0.32" />
